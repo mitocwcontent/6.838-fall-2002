@@ -1,0 +1,41 @@
+---
+content_type: page
+title: Readings
+uid: 29c23534-92a4-f69b-8301-423465bc8d07
+---
+
+Readings are assigned at the end of each lecture and are due at the beginning of next class.
+
+Information about accessing documents:
+
+*   The ACM SIGGRAPH readings are available online and can be accessed via the [ACM Portal](http://portal.acm.org/portal.cfm).
+*   It may also be faster to retrieve a paper through the [Citeseer service](http://citeseer.ist.psu.edu/).
+
+| Lec # | Topics | Readings |
+| --- | --- | --- |
+| 1 | Animation Principles | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Thomas, Frank, and Ollie Jonston. "Our Procedures." Chapter 9 in _The Illlusion of Life: Disney Animation_. Revised ed. Disney Editions, October 19, 1995. ISBN: 0786860707. {{< br >}}{{< br >}} Lasseter, John. _Principles of traditional animation applied to 3D computer animation_. SIGGRAPH 1987. {{< br >}}{{< br >}}  |
+| 2 | Keyframing | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Zhao, Jianmin, and Norman I. Badler. "Inverse kinematics positioning using nonlinear programming for highly articulated figures." _ACM Transactions on Graphics (TOG)_ 13, no. 4 (October 1994). {{< br >}}{{< br >}}  |
+| 3 | Open Topic | {{< h 3 >}}Optional Reading{{< /h >}} {{< br >}}{{< br >}} Rose, Charles F.,III, Peter - Pike Sloan, and ael Cohen. "Artist-Directed Inverse Kinematic Using Radial Basis Function Interpolation_._ Eurographics Conference 2001. {{< br >}}{{< br >}} "[Automating gait generation](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1095&context=hms)." Harold C. Sun, Dimitris N. Metaxas. SIGGRAPH 2001. {{< br >}}{{< br >}}  |
+| 4 | Motion Capture | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Witkin, Andrew, and Zoran Popovic. _Motion Warping._ SIGGRAPH 1995. {{< br >}}{{< br >}}  |
+| 5 | Open Topic | {{< h 3 >}}Optional Reading{{< /h >}} {{< br >}}{{< br >}} Bodenheimer, Bobby, Charles F. Rose, III, Seth Rosenthal, and John Pella. _The Process of Motion Capture: Dealing with the Data._ Computer Animation and Simulation,'97. Proceedings of the Eurographics Workshop. {{< br >}}{{< br >}} Gleicher, Michael. _Retargetting Motion to new character._ SIGGRAPH 1998. {{< br >}}{{< br >}} Rose, Charles F., III, Michael Cohen, and Bobby Bodenheimer. "Verbs and Adverbs: Multidimensional Motion Interpolation." _IEEE Computer Graphics And Applications_ 18, no. 5. {{< br >}}{{< br >}} Brand, Matthew, and Aaron Hertzmann. _Style machines._ SIGGRAPH 2000. {{< br >}}{{< br >}} Li, Yan, Tianshu Wang, and Heung-Yeung Shum. _Motion Textures: A Two - Level Statistical Model for Character Motion Synthesis._ SIGGRAPH 2002. {{< br >}}{{< br >}} Kovar, Lucas, Michael Gleicher, and Fred Pighin. _Motion Graphs._ SIGGRAPH 2002. {{< br >}}{{< br >}} Arikan, Okan, and D. A. _Interactive Motion Generation From Examples._ SIGGRAPH 2002. {{< br >}}{{< br >}} Lee, Jehee, Jinxiang Chai, Paul S. A. Reitsma, Jessica K. Hodgins, and Nancy S. Pollard. _Interactive Contol of Avatars Animated With Human Motion Data._ SIGGRAPH 2002. {{< br >}}{{< br >}} Pullen, Katherine, and Christoph Bregler. _Motion Capture Assisted Animation: Texturing and Synthesis._ SIGGRAPH 2002. {{< br >}}{{< br >}}  |
+| 6 | Particle Systems | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Karl Sims. _Particle animation and rendering using data parallel computation._ SIGGRAPH 1990. {{< br >}}{{< br >}}  |
+| 7 | Open Topic | {{< h 3 >}}Optional Reading{{< /h >}} {{< br >}}{{< br >}} Reeves, William T. _Particle systems - a technique for modeling a class of fuzzy objects._ SIGGRAPH 1983. {{< br >}}{{< br >}} Hahn, James K. _Realistic animation of rigid bodies._ SIGGRAPH 1988. {{< br >}}{{< br >}} Milenkovic, Victor J., and Harald Schmidl. _Optimization-based animation._ SIGGRAPH 2001. {{< br >}}{{< br >}} Isaacs, Paul M., and Michael F. Cohen. _Controlling dynamic simulation with kinematic constraints._ SIGGRAPH 1987. {{< br >}}{{< br >}} Witkin, Andrew, and Michael Kass. _Spacetime constraints._ SIGGRAPH 1988. {{< br >}}{{< br >}} Grzeszczuk, Radek, Demetri Terzopoulos, and Geoffrey Hinton. _NeuroAnimator: fast neural network emulation and control of physics-based models._ SIGGRAPH 1998. {{< br >}}{{< br >}} Terzopoulos, Demetri, John Platt. Alan Barr, and Kurt Fleischer. _Elastically deformable models._ SIGGRAPH 1987. {{< br >}}{{< br >}} Stam, Jos. _Stable Fluids._ SIGGRAPH 1999. {{< br >}}{{< br >}} Foster, Nick, and Ronald Fedkiw. _Practical animation of liquids._ SIGGRAPH 2001. {{< br >}}{{< br >}} Marc H. Raibert, Jessica K. Hodgins. _Animation of Dynamic Legged Locomotion._ SIGGRAPH 1991. {{< br >}}{{< br >}} Faloutsos, Petros, Michiel van de Panne, and Demetri Terzopoulos. _Composable controllers for physics - based character animation._ SIGGRAPH 2001. {{< br >}}{{< br >}}  |
+| 8 | Constraints  {{< br >}}**Extended Abstracts for Project Due** | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Platt, John C., and Alan H. Barr. _Constraints methods for flexible models._ SIGGRAPH 1988. {{< br >}}{{< br >}}  |
+| 9 | Optimization | &nbsp; |
+| 10 | Rigid Bodies | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Cohen, Michael F. _Interactive spacetime control for animation._ SIGGRAPH 1992. {{< br >}}{{< br >}} {{< h 3 >}}Optional Reading{{< /h >}} {{< br >}}{{< br >}} Witkin, Andrew, and Michael Kass. _Spacetime Constraints._ SIGGRAPH 1988. {{< br >}}{{< br >}}  |
+| 11 | Control of Rigid-Body Dynamics | &nbsp; |
+| 12 | Automated Learning of Muscle Control | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Grzeszczuk, Radek, and Demetri Terzopoulos. _Automated Learning of Muscle - Actuated Locomotion Through Control Abstraction._ SIGGRAPH 1995. {{< br >}}{{< br >}}  |
+| 13 | Natural and Expressive Motion | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Brand, Matthew, and Aaron Hertzmann. _Style Machines._SIGGRAPH 2000. {{< br >}}{{< br >}}  |
+| 14 | Approximating Physics | &nbsp; |
+| 15 | Flexible Bodies | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Terzopoulos, Demetri, John Platt, and Alan Barr, Kurt Fleischer. _Elastically deformable models._ SIGGRAPH 1987. {{< br >}}{{< br >}} {{< h 3 >}}Optional Reading{{< /h >}} {{< br >}}{{< br >}} Terzopoulos, Demetri, and Kurt Fleischer. _Modeling inelastic deformation: viscolelasticity, plasticity, fracture._ SIGGRAPH 1988. {{< br >}}{{< br >}} Baraff, David, and Andrew Witkin. _Dynamic simulation of non - penetrating flexible bodies._ SIGGRAPH 1992. {{< br >}}{{< br >}}  |
+| 16 | Cloth | {{< h 3 >}}Optional Reading{{< /h >}} {{< br >}}{{< br >}} Baraff, David, and Andrew Witkin. _Large steps in cloth simulation._ {{< br >}}{{< br >}} _———. Dynamic simulation of non-penetrating flexible bodies._SIGGRAPH 1998. {{< br >}}{{< br >}}  |
+| 17 | **Project Progress Reports** | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Blumberg, Bruce, Marc Downie, Yuri Ivanov, Matt Berlin, Michael Patrick Johnson, and Bill Tomlinson. _Integrated learning for interactive synthetic characters._ SIGGRAPH 2002. {{< br >}}{{< br >}}  |
+| 18 | Interactive Synthetic Characters (Prof. Blumberg) | &nbsp; |
+| 19 | Smoke | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Jos Stam. _Stable Fluids._ SIGGRAPH 1999. {{< br >}}{{< br >}}  |
+| 20 | Fluids | &nbsp; |
+| 21 | Motion Editing | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Rose, Charles F., III, Michael Cohen, and Bobby Bodenheimer. "Verbs and Adverbs: Multidimensional Motion Interpolation." _IEEE Computer Graphics And Applications_ 18, no. 5. {{< br >}}{{< br >}} {{< h 3 >}}Optional Reading{{< /h >}} {{< br >}}{{< br >}} Witkin, Andrew, and Zoran Popovic. _Motion Warping._ SIGGRAPH 1995. {{< br >}}{{< br >}}  |
+| 22 | Higher-Level Behaviors | &nbsp; |
+| 23 | Open Topic | &nbsp; |
+| 24 | Robot Controllers for Legged Locomotion | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Faloutsos, Petros, Michiel van de Panne, and Demetri Terzopoulos. _Composable controllers for physics-based character animation._ SIGGRAPH 2001. {{< br >}}{{< br >}}  |
+| 25 | Composable Controllers | &nbsp; |
+| 26 | Open Topic  {{< br >}}**Final Project Reports** |
